@@ -1,0 +1,11 @@
+{
+    "html-css-class-completion.JavaScriptLanguages": [
+    
+        "javascript",
+        "javascriptreact",
+        "typescriptreact"
+    ],
+    "cSpell.ignoreWords": [
+        "props"
+    ]
+}
